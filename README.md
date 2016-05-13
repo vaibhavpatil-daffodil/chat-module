@@ -1,7 +1,7 @@
 
 ## Chat-Module
 
-  Chat module is independent module for chatting, you have no need to save your messages in anywhere, this module
+  Chat module is independent module for chatting, you have no need to save your messages anywhere, this module
 	automatically done this.
 
 ## install
