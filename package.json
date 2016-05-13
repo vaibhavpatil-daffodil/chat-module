@@ -1,0 +1,21 @@
+{
+  "name": "chat-module",
+  "version": "1.2.0",
+  "description": "Independent chat module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaibhav patil",
+  "license": "Daffodil software ltd.",
+  "dependencies": {
+    "async": "^1.5.2",
+    "config": "^1.19.0",
+    "lodash": "^4.0.0",
+    "mongoose": "^4.3.6",
+    "redis": "^2.4.2",
+    "socket.io": "^1.4.4",
+    "socket.io-redis": "^1.0.0",
+    "winston": "^2.1.1"
+  }
+}
